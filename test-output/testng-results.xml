@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10193" started-at="2018-07-03T04:00:18Z" finished-at="2018-07-03T04:00:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10193" started-at="2018-07-03T04:00:18Z" finished-at="2018-07-03T04:00:28Z">
+      <class name="olympics.OlympicsMedals">
+        <test-method status="PASS" signature="setup()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="setup" is-config="true" duration-ms="3077" started-at="2018-07-03T04:00:18Z" finished-at="2018-07-03T04:00:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="bMethod" is-config="true" duration-ms="1205" started-at="2018-07-03T04:00:21Z" finished-at="2018-07-03T04:00:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="firstTest()[pri:1, instance:olympics.OlympicsMedals@91161c7]" name="firstTest" duration-ms="564" started-at="2018-07-03T04:00:22Z" finished-at="2018-07-03T04:00:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="aMethod" is-config="true" duration-ms="0" started-at="2018-07-03T04:00:23Z" finished-at="2018-07-03T04:00:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="bMethod" is-config="true" duration-ms="23" started-at="2018-07-03T04:00:23Z" finished-at="2018-07-03T04:00:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="secondTest()[pri:2, instance:olympics.OlympicsMedals@91161c7]" name="secondTest" duration-ms="3381" started-at="2018-07-03T04:00:23Z" finished-at="2018-07-03T04:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="aMethod" is-config="true" duration-ms="0" started-at="2018-07-03T04:00:26Z" finished-at="2018-07-03T04:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="bMethod" is-config="true" duration-ms="15" started-at="2018-07-03T04:00:26Z" finished-at="2018-07-03T04:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="thirdTest()[pri:3, instance:olympics.OlympicsMedals@91161c7]" name="thirdTest" duration-ms="548" started-at="2018-07-03T04:00:26Z" finished-at="2018-07-03T04:00:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="bMethod" is-config="true" duration-ms="22" started-at="2018-07-03T04:00:27Z" finished-at="2018-07-03T04:00:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="aMethod" is-config="true" duration-ms="0" started-at="2018-07-03T04:00:27Z" finished-at="2018-07-03T04:00:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="fourthTest()[pri:4, instance:olympics.OlympicsMedals@91161c7]" name="fourthTest" duration-ms="783" started-at="2018-07-03T04:00:27Z" finished-at="2018-07-03T04:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthTest -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="aMethod" is-config="true" duration-ms="0" started-at="2018-07-03T04:00:28Z" finished-at="2018-07-03T04:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="bMethod" is-config="true" duration-ms="32" started-at="2018-07-03T04:00:28Z" finished-at="2018-07-03T04:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="fifthTest()[pri:5, instance:olympics.OlympicsMedals@91161c7]" name="fifthTest" duration-ms="524" started-at="2018-07-03T04:00:28Z" finished-at="2018-07-03T04:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fifthTest -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="aMethod" is-config="true" duration-ms="1" started-at="2018-07-03T04:00:28Z" finished-at="2018-07-03T04:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:olympics.OlympicsMedals@91161c7]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-07-03T04:00:28Z" finished-at="2018-07-03T04:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- olympics.OlympicsMedals -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
